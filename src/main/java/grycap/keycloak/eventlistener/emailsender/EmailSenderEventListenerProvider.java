@@ -1,3 +1,5 @@
+package grycap.keycloak.eventlistener.emailsender;
+
 import org.keycloak.events.Event;
 import org.keycloak.events.EventListenerProvider;
 import org.keycloak.events.EventType;
