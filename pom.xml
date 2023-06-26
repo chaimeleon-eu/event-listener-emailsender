@@ -35,11 +35,6 @@
             <artifactId>jboss-logging</artifactId>
             <version>3.4.2.Final</version>
         </dependency>
-        <dependency>
-            <groupId>org.apache.httpcomponents</groupId>
-            <artifactId>httpclient</artifactId>
-            <version>4.5.10</version>
-        </dependency>
         <!-- Added Keycloak Services dependency which is needed for the Event Listener -->
         <!-- Bc of this: https://keycloak.discourse.group/t/send-email-on-event/3062/3-->
         <dependency>
